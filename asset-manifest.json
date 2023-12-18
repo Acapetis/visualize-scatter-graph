@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/visualize-scatter-graph/static/css/main.e6c13ad2.css",
+    "main.js": "/visualize-scatter-graph/static/js/main.cebe710d.js",
+    "static/js/787.61c5c555.chunk.js": "/visualize-scatter-graph/static/js/787.61c5c555.chunk.js",
+    "index.html": "/visualize-scatter-graph/index.html",
+    "main.e6c13ad2.css.map": "/visualize-scatter-graph/static/css/main.e6c13ad2.css.map",
+    "main.cebe710d.js.map": "/visualize-scatter-graph/static/js/main.cebe710d.js.map",
+    "787.61c5c555.chunk.js.map": "/visualize-scatter-graph/static/js/787.61c5c555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cebe710d.js"
+  ]
+}
